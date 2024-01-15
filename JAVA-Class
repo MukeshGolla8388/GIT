@@ -1,0 +1,7 @@
+Class can be defined as a folder that saves all the data and code whic is a part of application. 
+
+Class is 3 different type of modifiers: Public, Private, Protected.
+
+Public class: Public Class can be accessed by any class from any package and protected by subclass if required.
+Private Class: Private Class can be accessed by the class from same package and is limited to certain package
+Protected Class: Protected Class be accessed by the class which is having access to it
