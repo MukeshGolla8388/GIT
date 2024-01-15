@@ -1,0 +1,1 @@
+By using this command if we want to go to a different branch or come out of branch we use this command
