@@ -1,0 +1,2 @@
+Git INIT: IT creates a repository in an existing folder or New Folder
+In the terminal if we type the command 'GIT INIT' to create the empty repository. 
