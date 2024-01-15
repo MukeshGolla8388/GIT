@@ -1,0 +1,1 @@
+whenever there are changes in the cloud and to have that updated code in the local we use GIT PULL command.
