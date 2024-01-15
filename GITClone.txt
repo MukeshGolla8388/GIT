@@ -1,0 +1,1 @@
+As the code is in server to get it to our local, we use GIT clone and specify the path in terminal to Clone the Project in local
