@@ -1,0 +1,1 @@
+Individual separate branch can be created using this command additonaly we can also see list of branches, rename, delete can also be done using this command
