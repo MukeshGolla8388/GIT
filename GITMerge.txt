@@ -1,0 +1,1 @@
+To merge the changes that have been made in the local and to merge it into the main barch GITMerge is used
